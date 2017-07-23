@@ -1,0 +1,4 @@
+requests
+datetime
+yahoo-finance
+pandas
